@@ -2,3 +2,10 @@ body{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
+li{
+    list-style-type: none;
+}
+td{
+    text-align: center;
+    border-left: 3px solid blue;
+}
