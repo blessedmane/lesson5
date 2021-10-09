@@ -8,13 +8,10 @@ li{
 table{
     border-collapse: separate;
     border-spacing: 1em;
+    margin: 0 auto;
 }
 td{
     text-align: left;
     font-size: 24px;
     border-left: 3px solid blue;
-}
-
-table{
-    margin: 0 auto;
 }
