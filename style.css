@@ -5,7 +5,16 @@ body{
 li{
     list-style-type: none;
 }
+table{
+    border-collapse: separate;
+    border-spacing: 1em;
+}
 td{
-    text-align: center;
+    text-align: left;
+    font-size: 24px;
     border-left: 3px solid blue;
+}
+
+table{
+    margin: 0 auto;
 }
